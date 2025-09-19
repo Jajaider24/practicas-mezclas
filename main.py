@@ -8,3 +8,5 @@ print("Trabajen hijueputas")
 while True:
     print("chupones")
     break
+print("Nueva linea agregada")
+print("Otra linea agregada")
