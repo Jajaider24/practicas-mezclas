@@ -24,3 +24,5 @@ for edad in edades:
 print("Nueva linea agregada")
 print("Otra linea agregada")
 print("Buenos días caballero")
+for i in range(5):
+    print(i)
