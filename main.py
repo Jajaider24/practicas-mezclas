@@ -8,3 +8,4 @@ print("Trabajen hijueputas")
 while True:
     print("chupones")
     break
+print("Buenos días caballero")
