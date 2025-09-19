@@ -3,3 +3,6 @@ nombre = "Mundo"
 print("Hola " + nombre)
 print("Soy Santiago")
 print("soy el titular")
+while True:
+    print("chupones")
+    break
