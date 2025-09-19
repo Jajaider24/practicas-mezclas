@@ -5,3 +5,6 @@ print("Soy Santiago")
 print("soy el titular")
 print("Hola a todos")
 print("Trabajen hijueputas")
+while True:
+    print("chupones")
+    break
