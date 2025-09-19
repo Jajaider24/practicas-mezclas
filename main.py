@@ -21,3 +21,6 @@ for edad in edades:
             print(f"La persona con edad {edad} NO es mayor de edad.")
 
 
+print("Nueva linea agregada")
+print("Otra linea agregada")
+print("Buenos días caballero")
